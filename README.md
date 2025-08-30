@@ -82,9 +82,9 @@
     <section id="waitlist" class="section">
       <h2>Join the waitlist & share feedback</h2>
       <p class="muted">I’m a 15‑year‑old high school student making this solo. Your feedback shapes what I build next — please leave your email and how you’d use it.</p>
-      <!-- 📝 Replace the iframe below with your Google Form embed code (make sure to set the email question as required). Add &embedded=true at the end of the URL. -->
+      <
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfhcuPI3aIuLLNwZ8R0v0aofBgHtvb058qdlQ2tZf0Fl40JNw/viewform?usp=sharing&ouid=112591996445788615123" title="Feedback Form"></iframe>
-      <p class="note">If the form doesn’t load, you can open it in a new tab: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhcuPI3aIuLLNwZ8R0v0aofBgHtvb058qdlQ2tZf0Fl40JNw/viewform?usp=sharing&ouid=112591996445788615123" target="_blank" rel="noopener">Open feedback form</a></p>
+      <p class="note"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhcuPI3aIuLLNwZ8R0v0aofBgHtvb058qdlQ2tZf0Fl40JNw/viewform?usp=sharing&ouid=112591996445788615123" target="_blank" rel="noopener">Open feedback form</a></p>
     </section>
 <
     <section class="section">
